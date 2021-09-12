@@ -48,3 +48,18 @@ Others:
 
 * Repo logo [Designed by mamewmy / Freepik](https://www.freepik.com/free-vector/young-girl-thinking-face-wondering-cartoon-illustration_11652601.htm)
 * RSS logo made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/free-icon/rss_1051260)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/noob00123/rss-chan "Heroku")
